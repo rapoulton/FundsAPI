@@ -1,0 +1,3 @@
+﻿1. Should Fund retrieval only be active funds ?
+2. Assume MarketCode is unique
+3. Assume the existing api resource urls can change.
